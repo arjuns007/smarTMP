@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910583185701",
+    "firebase_url": "https://smartmp-b0d78.firebaseio.com",
+    "project_id": "smartmp-b0d78",
+    "storage_bucket": "smartmp-b0d78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910583185701:android:aa2e607b4686474216dacc",
+        "android_client_info": {
+          "package_name": "arjunseth.smartmp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910583185701-tuugfgvptinq93867qnu031c0l17ob8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTELvAfVnUxWtvUhQtW2Z7BInlMB9XeDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910583185701-tuugfgvptinq93867qnu031c0l17ob8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
