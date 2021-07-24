@@ -1,7 +1,7 @@
 # smarTMP
 A food ordering application for the students of NIIT UNIVERSITY where students can order food from late night canteen(known as TMP) through this application.
 
-TECHNOLGIES USED: FLUTTER SDK, DART, GOOGLE CLOUD FIREBASE. DEVELOPED ON ANDROID STUDIO.
+TECHNOLGIES USED: FLUTTER , DART and GOOGLE CLOUD FIREBASE. DEVELOPED ON ANDROID STUDIO.
 
 
 ![Screenshot 2020-10-12 at 12 02 34 PM](https://user-images.githubusercontent.com/44583018/95715421-718b3980-0c87-11eb-8446-2c2b19904cc2.png)
